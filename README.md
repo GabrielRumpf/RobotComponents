@@ -1,5 +1,5 @@
 # RobotComponents
-A Grasshopper Plugin for intuetive Robotic Programming for ABB Robots
+A Grasshopper Plugin for intuitive Robotic Programming for ABB Robots
 
 The Plugin is a development from the Department of Digital and Experimental Design and Construction of the University of Kassel.
 Supervised by the head of the department Prof. Eversmann.
